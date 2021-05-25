@@ -1,0 +1,3 @@
+LOGNAME=anton3718
+HOME=/home/anton3718
+USER=anton3718
